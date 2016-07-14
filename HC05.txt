@@ -1,0 +1,3 @@
+Módulo Bluetooth HC05
+Con este programa puedes programar  los comandos AT, puedes aprenderlo en 
+http://www.elbrujitocanario.es
